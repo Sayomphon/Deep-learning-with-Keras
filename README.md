@@ -11,9 +11,9 @@ helper function from Scikit-learn.
   4. Repeat steps 1 - 3, 50 times, i.e., create a list of 50 mean squared errors.
   5. Report the mean and the standard deviation of the mean squared errors.
 
+``` python
 #To build the baseline model, we will first import the required libraries and load the dataset into a Pandas dataframe.
 
-``` python
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
