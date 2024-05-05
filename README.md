@@ -13,6 +13,7 @@ helper function from Scikit-learn.
 
 #To build the baseline model, we will first import the required libraries and load the dataset into a Pandas dataframe.
 
+``` python
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
@@ -71,4 +72,4 @@ print("Mean Squared Error:", mean_mse)
 print("Standard Deviation:", std_mse)
 
 #The final output will report the mean and standard deviation of the 50 mean squared errors computed in the above step.
-
+``` 
