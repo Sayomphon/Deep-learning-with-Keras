@@ -1,5 +1,5 @@
 # Deep-learning-with-Keras
-## A. Build a baseline model (5 marks) 
+## A. Build a baseline model
 Use the Keras library to build a neural network with the following:
 - One hidden layer of 10 nodes, and a ReLU activation function
 - Use the adam optimizer and the mean squared error  as the loss function.
